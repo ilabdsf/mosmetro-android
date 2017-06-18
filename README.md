@@ -1,4 +1,5 @@
-# Wi-Fi в метро [![Build Status](https://local.thedrhax.pw/jenkins/job/MosMetro-Android/branch/master/badge/icon)](https://local.thedrhax.pw/jenkins/job/MosMetro-Android/branch/master/) [![Google Play](.github/resources/google-play.png)](https://play.google.com/store/apps/details?id=pw.thedrhax.mosmetro) [![ВКонтакте](.github/resources/vk-box.png)](https://vk.com/wifi_v_metro)
+# Wi-Fi в метро [![Build Status](https://local.thedrhax.pw/jenkins/job/MosMetro-Android/branch/master/badge/icon)](https://local.thedrhax.pw/jenkins/job/MosMetro-Android/branch/master/) [![Google Play](.github/resources/google-play.png)](https://play.google.com/store/apps/details?id=pw.thedrhax.mosmetro) [![ВКонтакте](.github/resources/vk-box.png)](https://vk.com/wifi_v_metro) 
+[![Get it on F-Droid](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Get_it_on_F-Droid.svg/200px-Get_it_on_F-Droid.svg.png)](https://f-droid.org/repository/browse/?fdid=pw.thedrhax.mosmetro)
 
 Данное приложение предназначено для автоматической авторизации Android-устройств в сетях московского общественного транспорта. Поддерживаются версии Android 3.0 (SDK 11) и выше.
 
